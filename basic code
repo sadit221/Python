@@ -1,0 +1,5 @@
+Price = 10
+Item = "Banana" 
+Amount = int(input("How many bananas do you wish to buy: "))
+Total=Price * Amount
+print('Total price: {0}'.format(Total))
